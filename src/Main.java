@@ -3,6 +3,7 @@ public class Main {
 
         System.out.println("yes");
         System.out.println("person2 yes");
+        System.out.println("no");
     }
 
 }
