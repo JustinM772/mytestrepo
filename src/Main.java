@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("yes yes");
         System.out.println("person2 yes");
-        System.out.println("no");
+        System.out.println("Conflicting merges");
         System.out.println("partner 2 line 7 changes");
     }
 
