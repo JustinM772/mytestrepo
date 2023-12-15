@@ -8,4 +8,7 @@ public class Class {
     public void cheese() {
         System.out.println("cheese");
     }
+    public void partner2Method() {
+        System.out.println("hello");
+    }
 }
